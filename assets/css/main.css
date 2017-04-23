@@ -10,6 +10,10 @@
   display: inline;
 }
 
+.no-space-break{
+    white-space:nowrap;
+  }
+
 .jumbotron {
   height: 500px;
   background-repeat: no-repeat;
